@@ -1,7 +1,9 @@
 # XylophoneApp
 A xylophone app in Swift. Each button plays a note from C to B. 
 
-https://github.com/cyeksan/XylophoneApp/assets/34041050/615f30f7-7256-48dd-9e5f-ac33a185b17b
+https://github.com/cyeksan/XylophoneApp/assets/34041050/9949c3f9-84a0-43e8-9134-7944b67171ff
 
-Udemy course link: https://www.udemy.com/course/ios-13-app-development-bootcamp/
+Inspired by Angela Yu's (@angelabauer) IOS development course/repo: https://github.com/appbrewery/Xylophone-iOS13
+
+Course link: https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
